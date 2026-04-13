@@ -1,8 +1,8 @@
 # OpenAI API
 
-**Project:** 					  Use the OpenAI API to apply AI capabilities to Excel sheets
+**Project:** 					      Use the OpenAI API to apply AI capabilities to Excel sheets
 
-**Consumer:**					  CCC EHSD
+**Consumer:**					      CCC EHSD
 
 **Program languages:**  VBS
 
@@ -11,4 +11,6 @@
  - CallOpenAI.vbs - VBS function code for OpenAI API usage
  - OpenAI integrations with Excel.mp4 - video demonstration of how to use the function
 
+**Illustration:**       An example of an API function in an Excel worksheet
 
+![alt text](https://github.com/dmitrii-govorukhin/OpenAI-API/blob/main/screenshot.png?raw=true)
