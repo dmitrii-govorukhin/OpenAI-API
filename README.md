@@ -11,7 +11,4 @@
  - CallOpenAI.vbs - VBS function code for OpenAI API usage
  - OpenAI integrations with Excel.mp4 - video demonstration of how to use the function
 
-**Illustration:**       capabilities of the CallOpenAI function with simple examples
-
-![alt text](https://github.com/dmitrii-govorukhin/OpenAI-API/blob/main/OpenAI%20integrations%20with%20Excel.mp4)
 
