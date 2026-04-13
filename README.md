@@ -13,5 +13,5 @@
 
 **Illustration:**       capabilities of the CallOpenAI function with simple examples
 
-![alt text](https://github.com/dmitrii-govorukhin/OpenAI-API/blob/main/OpenAI integrations with Excel.mp4?raw=true)
+![alt text](https://github.com/dmitrii-govorukhin/OpenAI-API/blob/main/OpenAI%20Integrations%20with%20Excel.mp4?raw=true)
 
