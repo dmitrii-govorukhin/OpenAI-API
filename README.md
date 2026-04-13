@@ -1,4 +1,4 @@
-# Open-AI-API
+# OpenAI API
 
 **Project:** 					  Use the OpenAI API to apply AI capabilities to Excel sheets
 
