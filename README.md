@@ -13,4 +13,4 @@
 
 **Illustration:**       An example of an API function in an Excel worksheet
 
-![alt text](https://github.com/dmitrii-govorukhin/OpenAI-API/blob/main/screenshot.png?raw=true)
+![alt text](https://github.com/dmitrii-govorukhin/OpenAI-API/blob/main/Screenshot.png?raw=true)
